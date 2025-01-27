@@ -1,0 +1,78 @@
+aiohttp==3.8.1
+astor==0.8.1
+blinker==1.4
+brotlipy==0.7.0
+click==8.0.3
+importlib-metadata==4.8.2
+mkl-fft==1.3.1
+mkl-random==1.2.2
+mkl-service==2.4.0
+opencv-python==4.5.5.62
+pandas==1.4.1
+pip-chill==1.0.1
+pydicom==2.2.2
+pyjwt==2.1.0
+pyopenssl==21.0.0
+pyreadline==2.1
+pysocks==1.7.1
+scikit-image==0.19.2
+tensorflow==2.5.0
+tqdm==4.63.0
+win-inet-pton==1.1.0
+wincertstore==0.2
+# absl-py==0.15.0 # Installed as dependency for tensorboard, tensorflow
+# aiosignal==1.2.0 # Installed as dependency for aiohttp
+# astunparse==1.6.3 # Installed as dependency for tensorflow
+# async-timeout==4.0.1 # Installed as dependency for aiohttp
+# attrs==21.2.0 # Installed as dependency for aiohttp
+# cachetools==4.2.2 # Installed as dependency for google-auth
+# certifi==2021.10.8 # Installed as dependency for requests
+# cffi==1.15.0 # Installed as dependency for brotlipy, cryptography
+# charset-normalizer==2.0.4 # Installed as dependency for requests, aiohttp
+# colorama==0.4.4 # Installed as dependency for click, tqdm
+# cryptography==3.4.8 # Installed as dependency for pyopenssl
+# flatbuffers==1.12 # Installed as dependency for tensorflow
+# frozenlist==1.2.0 # Installed as dependency for aiosignal, aiohttp
+# gast==0.4.0 # Installed as dependency for tensorflow
+# google-auth==1.33.0 # Installed as dependency for google-auth-oauthlib, tensorboard
+# google-auth-oauthlib==0.4.1 # Installed as dependency for tensorboard
+# google-pasta==0.2.0 # Installed as dependency for tensorflow
+# grpcio==1.34.0 # Installed as dependency for tensorboard, tensorflow
+# h5py==3.6.0 # Installed as dependency for tensorflow
+# idna==3.3 # Installed as dependency for requests, yarl
+# imageio==2.16.1 # Installed as dependency for scikit-image
+# keras==2.6.0 # Installed as dependency for tensorflow
+# keras-preprocessing==1.1.2 # Installed as dependency for tensorflow
+# markdown==3.3.4 # Installed as dependency for tensorboard
+# multidict==5.1.0 # Installed as dependency for aiohttp, yarl
+# networkx==2.6.3 # Installed as dependency for scikit-image
+# numpy==1.21.2 # Installed as dependency for h5py, pywavelets, keras-preprocessing, opencv-python, mkl-fft, opt-einsum, tifffile, mkl-random, imageio, pandas, tensorboard, scipy, scikit-image, tensorflow
+# oauthlib==3.1.1 # Installed as dependency for requests-oauthlib
+# opt-einsum==3.3.0 # Installed as dependency for tensorflow
+# packaging==21.3 # Installed as dependency for scikit-image
+# pillow==9.0.1 # Installed as dependency for scikit-image, imageio
+# protobuf==3.14.0 # Installed as dependency for tensorboard, tensorflow
+# pyasn1==0.4.8 # Installed as dependency for pyasn1-modules, rsa
+# pyasn1-modules==0.2.8 # Installed as dependency for google-auth
+# pycparser==2.21 # Installed as dependency for cffi
+# pyparsing==3.0.7 # Installed as dependency for packaging
+# python-dateutil==2.8.2 # Installed as dependency for pandas
+# pytz==2021.3 # Installed as dependency for pandas
+# pywavelets==1.2.0 # Installed as dependency for scikit-image
+# requests==2.27.1 # Installed as dependency for tensorboard, requests-oauthlib
+# requests-oauthlib==1.3.0 # Installed as dependency for google-auth-oauthlib
+# rsa==4.7.2 # Installed as dependency for google-auth
+# scipy==1.7.3 # Installed as dependency for scikit-image
+# six==1.16.0 # Installed as dependency for protobuf, keras-preprocessing, grpcio, google-pasta, absl-py, pyopenssl, astunparse, python-dateutil, google-auth, tensorflow
+# tensorboard==2.5.0 # Installed as dependency for tensorflow
+# tensorboard-data-server==0.6.0 # Installed as dependency for tensorboard
+# tensorboard-plugin-wit==1.6.0 # Installed as dependency for tensorboard
+# tensorflow-estimator==2.5.0 # Installed as dependency for tensorflow
+# termcolor==1.1.0 # Installed as dependency for tensorflow
+# tifffile==2022.2.9 # Installed as dependency for scikit-image
+# typing-extensions==3.10.0.2 # Installed as dependency for async-timeout, tensorflow
+# urllib3==1.26.7 # Installed as dependency for requests
+# werkzeug==2.0.2 # Installed as dependency for tensorboard
+# wrapt==1.13.3 # Installed as dependency for tensorflow
+# yarl==1.6.3 # Installed as dependency for aiohttp
+# zipp==3.7.0 # Installed as dependency for importlib-metadata
